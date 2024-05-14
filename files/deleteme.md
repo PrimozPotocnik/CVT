@@ -15,5 +15,4 @@ if pythonWorks():
 1. Second
 1. Third
 
-Testing Latex
-  $f(x)/le 2^x$
+Testing Latex $f(x)\le 2^x$
